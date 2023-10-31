@@ -1,2 +1,2 @@
 # DualWikipedia
-Wikilink analysis tool
+My notebook development
